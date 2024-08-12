@@ -1,4 +1,4 @@
-# Azure Honeynet Security Operations Project
+# Azure Honeypot Security Operations Project
 ![image](https://github.com/user-attachments/assets/707c78c0-96e2-41a8-b53c-0b28433390e3)
 
 ## Introduction
